@@ -1,0 +1,31 @@
+.corA {
+    background-color: darkgreen;
+    width: 100vw;
+    height: 100vh;
+}
+
+.corB {
+    background-color: yellow;
+    width: 70vw;
+    height: 450px;
+}
+
+.p1 {
+    color: white;
+    background-color: blue;
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+.corC {
+    background-color: rgb(18, 10, 143);
+    width: 50%;
+    height: 50vh;
+    font-size: 40px; 
+}
+
+.corD {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(255, 0, 0);
+}
